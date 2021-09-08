@@ -7,8 +7,10 @@
 .numbers{
     margin: 20px;
     background-color: var(--color-third);
+    color: var(--color-first);
     padding: 5px;
     width: 30px;
+    font-family: 'Poppins', sans-serif;
 }
 
 body{
